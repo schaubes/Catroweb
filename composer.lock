@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8aace42c07d0ff7a850c186508b85294",
+    "content-hash": "7ee054649c77afd8bc2356f4f2bda6c6",
     "packages": [
         {
             "name": "beberlei/doctrineextensions",
@@ -13544,16 +13544,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v3.9.3",
+            "version": "v3.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "a842d75fed59cdbcbd3a3ad7fb9eb768fc350d58"
+                "reference": "7aaed0b8311a557cc8c4047a71fd03153a00e755"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/a842d75fed59cdbcbd3a3ad7fb9eb768fc350d58",
-                "reference": "a842d75fed59cdbcbd3a3ad7fb9eb768fc350d58",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/7aaed0b8311a557cc8c4047a71fd03153a00e755",
+                "reference": "7aaed0b8311a557cc8c4047a71fd03153a00e755",
                 "shasum": ""
             },
             "require": {
@@ -13607,7 +13607,7 @@
             ],
             "support": {
                 "issues": "https://github.com/twigphp/Twig/issues",
-                "source": "https://github.com/twigphp/Twig/tree/v3.9.3"
+                "source": "https://github.com/twigphp/Twig/tree/v3.10.2"
             },
             "funding": [
                 {
@@ -13619,7 +13619,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T11:59:33+00:00"
+            "time": "2024-05-14T06:04:16+00:00"
         }
     ],
     "packages-dev": [
