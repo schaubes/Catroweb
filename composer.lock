@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ec588f834555cff2029e6f2e743a6f03",
+    "content-hash": "c7fe4ccf140059db76677242daa5639f",
     "packages": [
         {
             "name": "beberlei/doctrineextensions",
@@ -4931,16 +4931,16 @@
         },
         {
             "name": "php-http/httplug-bundle",
-            "version": "1.33.1",
+            "version": "1.34.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-http/HttplugBundle.git",
-                "reference": "b7ad2c1951edec36ef0bd9897e309b0038c59a54"
+                "reference": "5380dadb3ca75be5aa54983db86e0e8fa4c7e7ca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-http/HttplugBundle/zipball/b7ad2c1951edec36ef0bd9897e309b0038c59a54",
-                "reference": "b7ad2c1951edec36ef0bd9897e309b0038c59a54",
+                "url": "https://api.github.com/repos/php-http/HttplugBundle/zipball/5380dadb3ca75be5aa54983db86e0e8fa4c7e7ca",
+                "reference": "5380dadb3ca75be5aa54983db86e0e8fa4c7e7ca",
                 "shasum": ""
             },
             "require": {
@@ -4964,7 +4964,8 @@
                 "php-http/cache-plugin": "<1.7.0",
                 "php-http/curl-client": "<2.0",
                 "php-http/guzzle6-adapter": "<1.1",
-                "php-http/socket-client": "<2.0"
+                "php-http/socket-client": "<2.0",
+                "php-http/throttle-plugin": "<1.1"
             },
             "require-dev": {
                 "guzzlehttp/psr7": "^1.7 || ^2.0",
@@ -5027,9 +5028,9 @@
             ],
             "support": {
                 "issues": "https://github.com/php-http/HttplugBundle/issues",
-                "source": "https://github.com/php-http/HttplugBundle/tree/1.33.1"
+                "source": "https://github.com/php-http/HttplugBundle/tree/1.34.0"
             },
-            "time": "2024-05-27T11:35:05+00:00"
+            "time": "2024-06-17T08:06:25+00:00"
         },
         {
             "name": "php-http/logger-plugin",
@@ -10046,16 +10047,16 @@
         },
         {
             "name": "symfony/options-resolver",
-            "version": "v7.0.8",
+            "version": "v7.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/options-resolver.git",
-                "reference": "19eecfc6f1b0e4b093db7f4a71eedc91843e711a"
+                "reference": "47aa818121ed3950acd2b58d1d37d08a94f9bf55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/19eecfc6f1b0e4b093db7f4a71eedc91843e711a",
-                "reference": "19eecfc6f1b0e4b093db7f4a71eedc91843e711a",
+                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/47aa818121ed3950acd2b58d1d37d08a94f9bf55",
+                "reference": "47aa818121ed3950acd2b58d1d37d08a94f9bf55",
                 "shasum": ""
             },
             "require": {
@@ -10093,7 +10094,7 @@
                 "options"
             ],
             "support": {
-                "source": "https://github.com/symfony/options-resolver/tree/v7.0.8"
+                "source": "https://github.com/symfony/options-resolver/tree/v7.1.1"
             },
             "funding": [
                 {
@@ -10109,7 +10110,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-05-31T14:55:39+00:00"
+            "time": "2024-05-31T14:57:53+00:00"
         },
         {
             "name": "symfony/password-hasher",
